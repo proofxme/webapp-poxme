@@ -8,9 +8,9 @@ import { HeroHeader, ContentSection } from "@/types/contents"
  ==================== */
 
 export const heroHeader: HeroHeader = {
-  header: `Landing pages made easy`,
-  subheader: `Easy to setup. Customizable. Quick. Responsive.`,
-  image: `/hero-img.webp`,
+  header: `A Digital Identity Management Tool`,
+  subheader: `Easy to setup. Customizable. Quick. Responsive. Secure. Verifiable. Verified`,
+  image: `/hero-image.png`,
 }
 
 export const featureCards: ContentSection = {
